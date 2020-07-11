@@ -1,0 +1,13 @@
+body{
+    background-image: url('watch bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 600px; */
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    /* font-variant: initial; */
+}
+h1,h3{
+    color: #ffffff;
+}
